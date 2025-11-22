@@ -43,13 +43,13 @@ const Index = () => {
           <h1 className="text-5xl md:text-7xl font-bold mb-4 bg-gradient-to-r from-white to-purple-400 bg-clip-text text-transparent" style={{ fontFamily: 'Montserrat, sans-serif' }}>
             О нас
           </h1>
-          <p className="text-xl md:text-2xl text-gray-300 max-w-2xl mx-auto leading-relaxed" style={{ fontFamily: 'Roboto, sans-serif' }}>
+          <p className="text-xl md:text-2xl text-white max-w-2xl mx-auto leading-relaxed" style={{ fontFamily: 'Roboto, sans-serif' }}>
             Мы бесплатно помогаем за подписку на наши каналы. Наша команда предоставляет профессиональную поддержку всем участникам сообщества.
           </p>
         </div>
 
         <Card className="bg-white/5 backdrop-blur-sm border-white/10 p-8 mb-12 animate-fade-in" style={{ animationDelay: '0.2s' }}>
-          <h2 className="text-3xl font-bold mb-6 flex items-center gap-3" style={{ fontFamily: 'Montserrat, sans-serif' }}>
+          <h2 className="text-3xl font-bold mb-6 flex items-center gap-3 text-white" style={{ fontFamily: 'Montserrat, sans-serif' }}>
             <Icon name="HelpCircle" className="text-purple-400" size={32} />
             Как получить помощь?
           </h2>
