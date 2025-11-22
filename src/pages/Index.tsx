@@ -56,7 +56,7 @@ const Index = () => {
           
           <div className="space-y-6">
             <div className="flex gap-4 items-start group hover:translate-x-2 transition-transform duration-300">
-              <div className="flex-shrink-0 w-10 h-10 rounded-full bg-purple-500/20 flex items-center justify-center text-purple-400 font-bold text-lg border border-purple-500/30">
+              <div className="flex-shrink-0 w-10 h-10 rounded-full bg-purple-500/20 flex items-center justify-center text-white font-bold text-lg border border-purple-500/30">
                 1
               </div>
               <div className="flex-1">
@@ -74,7 +74,7 @@ const Index = () => {
             </div>
 
             <div className="flex gap-4 items-start group hover:translate-x-2 transition-transform duration-300">
-              <div className="flex-shrink-0 w-10 h-10 rounded-full bg-purple-500/20 flex items-center justify-center text-purple-400 font-bold text-lg border border-purple-500/30">
+              <div className="flex-shrink-0 w-10 h-10 rounded-full bg-purple-500/20 flex items-center justify-center text-white font-bold text-lg border border-purple-500/30">
                 2
               </div>
               <div className="flex-1">
@@ -85,7 +85,7 @@ const Index = () => {
             </div>
 
             <div className="flex gap-4 items-start group hover:translate-x-2 transition-transform duration-300">
-              <div className="flex-shrink-0 w-10 h-10 rounded-full bg-purple-500/20 flex items-center justify-center text-purple-400 font-bold text-lg border border-purple-500/30">
+              <div className="flex-shrink-0 w-10 h-10 rounded-full bg-purple-500/20 flex items-center justify-center text-white font-bold text-lg border border-purple-500/30">
                 3
               </div>
               <div className="flex-1">
