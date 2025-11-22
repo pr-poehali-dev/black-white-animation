@@ -60,7 +60,7 @@ const Index = () => {
                 1
               </div>
               <div className="flex-1">
-                <p className="text-lg leading-relaxed" style={{ fontFamily: 'Roboto, sans-serif' }}>
+                <p className="text-lg leading-relaxed text-white" style={{ fontFamily: 'Roboto, sans-serif' }}>
                   Подпишитесь на 2 канала выше:{" "}
                   <a href="https://t.me/blackchildren" target="_blank" rel="noopener noreferrer" className="text-purple-400 hover:text-purple-300 underline transition-colors">
                     @blackchildren
@@ -78,7 +78,7 @@ const Index = () => {
                 2
               </div>
               <div className="flex-1">
-                <p className="text-lg leading-relaxed" style={{ fontFamily: 'Roboto, sans-serif' }}>
+                <p className="text-lg leading-relaxed text-white" style={{ fontFamily: 'Roboto, sans-serif' }}>
                   Сделайте скриншоты подписок
                 </p>
               </div>
@@ -89,7 +89,7 @@ const Index = () => {
                 3
               </div>
               <div className="flex-1">
-                <p className="text-lg leading-relaxed" style={{ fontFamily: 'Roboto, sans-serif' }}>
+                <p className="text-lg leading-relaxed text-white" style={{ fontFamily: 'Roboto, sans-serif' }}>
                   Отправьте скриншоты{" "}
                   <a href="https://t.me/atackharoraa" target="_blank" rel="noopener noreferrer" className="text-purple-400 hover:text-purple-300 underline transition-colors">
                     @atackharoraa
